@@ -1,0 +1,23 @@
+body{
+    background-color:red;
+    color: rgb(14, 17, 12);
+    font-family: times;
+    font-size: 20px;
+}
+
+.center{
+    display: flex;
+    top: 4em;
+    justify-content: center;
+    align-items: center;
+}
+
+.center_numero{
+    font-family: arial;
+    font-size: 4rem;
+}
+.center_contenido{
+    font-family: times;
+    font-size: 2rem;
+}
+
